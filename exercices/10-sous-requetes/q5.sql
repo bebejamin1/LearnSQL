@@ -1,0 +1,13 @@
+-- ==================================================================
+--  Exercice 10 · Question 5 — Même catégorie
+-- ==================================================================
+--  Affiche le nom et le prix des produits qui sont de la même
+--  catégorie que la Cafetière (la Cafetière comprise). N'écris
+--  pas le nom de la catégorie en dur : trouve-la avec une sous-
+--  requête.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 10 5
+-- ==================================================================
+

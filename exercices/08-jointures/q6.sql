@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 08 · Question 6 — Commandes par client
+-- ==================================================================
+--  Affiche le prénom et le nom de chaque client qui a passé au
+--  moins une commande, avec son nombre de commandes.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 8 6
+-- ==================================================================
+

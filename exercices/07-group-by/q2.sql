@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 07 · Question 2 — Commandes par statut
+-- ==================================================================
+--  Affiche chaque statut de commande (livrée, en cours…) et le
+--  nombre de commandes qui ont ce statut.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 7 2
+-- ==================================================================
+

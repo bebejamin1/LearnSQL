@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 05 · Question 1 — Valeur du stock
+-- ==================================================================
+--  Affiche le nom de chaque produit et la valeur de son stock
+--  (prix × stock), dans une colonne nommée valeur_stock.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 5 1
+-- ==================================================================
+

@@ -1,0 +1,12 @@
+-- ==================================================================
+--  Exercice 09 · Question 5 — Clients à relancer
+-- ==================================================================
+--  Le service marketing veut écrire aux clients qui n'ont jamais
+--  commandé. Affiche le prénom et l'email de ces clients, mais
+--  seulement ceux qui ont une adresse email.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 9 5
+-- ==================================================================
+

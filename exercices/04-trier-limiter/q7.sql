@@ -1,0 +1,12 @@
+-- ==================================================================
+--  Exercice 04 · Question 7 — Page 2
+-- ==================================================================
+--  Le site affiche les produits par pages de 5, du moins cher au
+--  plus cher. Affiche le nom et le prix des produits de la page
+--  2, c'est-à-dire les produits n°6 à 10 de ce classement.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 4 7
+-- ==================================================================
+

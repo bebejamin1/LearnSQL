@@ -1,0 +1,12 @@
+-- ==================================================================
+--  Exercice 10 · Question 7 — Panier moyen
+-- ==================================================================
+--  Défi : quel est le montant moyen d'une commande livrée,
+--  arrondi à 2 décimales ? (Le montant d'une commande = la somme
+--  de prix × quantité de ses lignes.)
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 10 7
+-- ==================================================================
+

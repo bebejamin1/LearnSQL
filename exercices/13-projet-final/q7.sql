@@ -1,0 +1,12 @@
+-- ==================================================================
+--  Exercice 13 · Question 7 — Clients curieux
+-- ==================================================================
+--  Affiche le prénom des clients qui ont commandé des produits
+--  d'au moins 2 catégories différentes, avec leur nombre de
+--  catégories différentes (colonne nb_categories).
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 13 7
+-- ==================================================================
+

@@ -1,0 +1,12 @@
+-- ==================================================================
+--  Exercice 09 · Question 1 — Tous les clients
+-- ==================================================================
+--  Affiche le prénom et le nom de tous les clients, avec l'id de
+--  chacune de leurs commandes. Les clients sans commande doivent
+--  apparaître aussi (avec un id de commande NULL).
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 9 1
+-- ==================================================================
+

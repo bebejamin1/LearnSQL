@@ -1,0 +1,12 @@
+-- ==================================================================
+--  Exercice 05 · Question 4 — Nom complet
+-- ==================================================================
+--  Affiche une seule colonne nommée nom_complet qui contient le
+--  prénom, un espace, puis le nom de chaque client (par exemple
+--  Alice Martin).
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 5 4
+-- ==================================================================
+

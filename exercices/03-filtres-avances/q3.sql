@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 03 · Question 3 — La lettre L
+-- ==================================================================
+--  Affiche le prénom et le nom des clients dont le nom (pas le
+--  prénom !) commence par la lettre L.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 3 3
+-- ==================================================================
+

@@ -1,0 +1,12 @@
+-- ==================================================================
+--  Exercice 03 · Question 8 — Ni l'un ni l'autre
+-- ==================================================================
+--  Affiche le nom et la catégorie des produits qui ne sont ni de
+--  la catégorie Informatique ni de la catégorie Livres. Utilise
+--  NOT IN.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 3 8
+-- ==================================================================
+

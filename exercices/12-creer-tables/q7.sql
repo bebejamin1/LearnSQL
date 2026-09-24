@@ -1,0 +1,13 @@
+-- ==================================================================
+--  Exercice 12 · Question 7 — Table des catégories
+-- ==================================================================
+--  Crée une table categories avec id (entier, clé primaire) et
+--  nom (texte, obligatoire). Puis remplis-la automatiquement avec
+--  les catégories différentes de la table produits, en une seule
+--  requête INSERT … SELECT.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 12 7
+-- ==================================================================
+

@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 06 · Question 5 — Stock total
+-- ==================================================================
+--  Combien d'articles y a-t-il en stock au total, tous produits
+--  confondus ?
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 6 5
+-- ==================================================================
+

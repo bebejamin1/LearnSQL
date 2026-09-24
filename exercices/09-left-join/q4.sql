@@ -1,0 +1,12 @@
+-- ==================================================================
+--  Exercice 09 · Question 4 — Quantités vendues
+-- ==================================================================
+--  Affiche le nom de chaque produit et la quantité totale
+--  commandée. Les produits jamais commandés doivent afficher 0
+--  (et pas NULL).
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 9 4
+-- ==================================================================
+

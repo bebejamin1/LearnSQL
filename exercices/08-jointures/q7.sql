@@ -1,0 +1,13 @@
+-- ==================================================================
+--  Exercice 08 · Question 7 — Chiffre d'affaires par catégorie
+-- ==================================================================
+--  Affiche chaque catégorie de produit et son chiffre d'affaires
+--  (la somme de prix × quantité), en ne comptant que les
+--  commandes livrées. Trie du plus grand chiffre d'affaires au
+--  plus petit.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 8 7
+-- ==================================================================
+

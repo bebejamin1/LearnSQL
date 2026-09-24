@@ -1,0 +1,12 @@
+-- ==================================================================
+--  Exercice 07 · Question 4 — Prix moyen par catégorie
+-- ==================================================================
+--  Affiche chaque catégorie et le prix moyen de ses produits,
+--  arrondi à 2 décimales, du prix moyen le plus élevé au plus
+--  bas.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 7 4
+-- ==================================================================
+

@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 07 · Question 6 — Catégories haut de gamme
+-- ==================================================================
+--  Affiche les catégories dont le produit le plus cher coûte plus
+--  de 40 €, avec le prix de ce produit le plus cher.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 7 6
+-- ==================================================================
+

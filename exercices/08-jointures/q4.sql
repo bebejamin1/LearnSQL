@@ -1,0 +1,12 @@
+-- ==================================================================
+--  Exercice 08 · Question 4 — Facture n°5
+-- ==================================================================
+--  Pour la commande n°5, affiche le nom de chaque produit, la
+--  quantité, le prix unitaire, et le montant de la ligne (prix ×
+--  quantité) dans une colonne nommée montant.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 8 4
+-- ==================================================================
+

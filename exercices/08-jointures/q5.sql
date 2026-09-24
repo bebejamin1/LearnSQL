@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 08 · Question 5 — Le panier d'Emma
+-- ==================================================================
+--  Affiche le nom de tous les produits commandés par la cliente
+--  dont le prénom est Emma. (Il faut relier les 4 tables !)
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 8 5
+-- ==================================================================
+

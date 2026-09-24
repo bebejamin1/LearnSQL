@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 10 · Question 1 — Plus cher que la moyenne
+-- ==================================================================
+--  Affiche le nom et le prix des produits qui coûtent plus cher
+--  que le prix moyen de tous les produits.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 10 1
+-- ==================================================================
+

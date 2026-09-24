@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 04 · Question 3 — Le podium
+-- ==================================================================
+--  Affiche le nom et le prix des 3 produits les plus chers, du
+--  plus cher au moins cher.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 4 3
+-- ==================================================================
+

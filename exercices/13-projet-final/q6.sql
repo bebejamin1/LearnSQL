@@ -1,0 +1,15 @@
+-- ==================================================================
+--  Exercice 13 · Question 6 — Clients par tranche d'âge
+-- ==================================================================
+--  Combien de clients dans chaque tranche d'âge ? Affiche la
+--  tranche (colonne tranche) et le nombre de clients (colonne
+--  nb_clients). Les tranches sont :
+--  - moins de 30 ans ;
+--  - 30 à 49 ans ;
+--  - 50 ans et plus.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 13 6
+-- ==================================================================
+

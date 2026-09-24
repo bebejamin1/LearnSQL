@@ -1,0 +1,13 @@
+-- ==================================================================
+--  Exercice 07 · Question 7 — Les meilleures ventes
+-- ==================================================================
+--  Dans la table lignes_commande, affiche chaque produit_id et la
+--  quantité totale commandée, uniquement pour les produits
+--  commandés au moins 4 fois au total. Trie par quantité totale
+--  décroissante, puis par produit_id croissant en cas d'égalité.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 7 7
+-- ==================================================================
+

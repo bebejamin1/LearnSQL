@@ -1,0 +1,12 @@
+-- ==================================================================
+--  Exercice 04 · Question 6 — Top 3 Maison et Sport
+-- ==================================================================
+--  Affiche le nom, la catégorie et le prix des produits des
+--  catégories Maison et Sport, du plus cher au moins cher, en ne
+--  gardant que les 3 premiers.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 4 6
+-- ==================================================================
+

@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 02 · Question 3 — Rupture de stock
+-- ==================================================================
+--  Affiche le nom et le stock des produits en rupture de stock
+--  (stock égal à 0).
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 2 3
+-- ==================================================================
+

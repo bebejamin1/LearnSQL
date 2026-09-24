@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 13 · Question 4 — Les clients parisiens
+-- ==================================================================
+--  Pour chaque client qui habite à Paris, affiche son prénom, son
+--  nom et le montant total de ses commandes non annulées.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 13 4
+-- ==================================================================
+

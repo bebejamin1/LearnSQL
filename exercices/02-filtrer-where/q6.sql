@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 02 · Question 6 — Lecture et jeux
+-- ==================================================================
+--  Affiche toutes les colonnes des produits de la catégorie
+--  Livres ou de la catégorie Jeux.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 2 6
+-- ==================================================================
+

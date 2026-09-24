@@ -1,0 +1,13 @@
+-- ==================================================================
+--  Exercice 05 · Question 7 — Les soldes
+-- ==================================================================
+--  C'est les soldes : -10 % sur les produits à plus de 50 €.
+--  Affiche le nom, le prix et le prix soldé (prix × 0.9, arrondi
+--  à 2 décimales, colonne prix_solde) des produits qui coûtent
+--  plus de 50 €, du plus cher au moins cher.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 5 7
+-- ==================================================================
+

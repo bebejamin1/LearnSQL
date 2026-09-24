@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 05 · Question 3 — Nom en majuscules
+-- ==================================================================
+--  Affiche le prénom de chaque client et son nom en MAJUSCULES,
+--  dans une colonne nommée nom_majuscule.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 5 3
+-- ==================================================================
+

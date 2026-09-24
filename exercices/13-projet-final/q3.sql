@@ -1,0 +1,14 @@
+-- ==================================================================
+--  Exercice 13 · Question 3 — Gammes de prix
+-- ==================================================================
+--  Affiche le nom, le prix et la gamme de chaque produit (colonne
+--  gamme) :
+--  - petit prix si le prix est inférieur à 20 € ;
+--  - moyen si le prix va de 20 € à 50 € (inclus) ;
+--  - premium au-delà de 50 €.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 13 3
+-- ==================================================================
+

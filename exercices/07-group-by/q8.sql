@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 07 · Question 8 — WHERE et HAVING
+-- ==================================================================
+--  En ne comptant que les commandes livrées, affiche l'id de
+--  chaque client (client_id) et son nombre de commandes livrées.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 7 8
+-- ==================================================================
+

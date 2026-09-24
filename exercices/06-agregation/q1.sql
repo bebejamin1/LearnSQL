@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 06 · Question 1 — Nombre de clients
+-- ==================================================================
+--  Combien y a-t-il de clients au total ? (une seule colonne, une
+--  seule ligne)
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 6 1
+-- ==================================================================
+

@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 08 · Question 2 — Les commandes d'Alice
+-- ==================================================================
+--  Affiche l'id, la date et le statut des commandes passées par
+--  la cliente dont le prénom est Alice.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 8 2
+-- ==================================================================
+

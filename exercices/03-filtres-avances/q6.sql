@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 03 · Question 6 — Un i et un email
+-- ==================================================================
+--  Affiche le prénom, le nom et l'email des clients dont le
+--  prénom contient la lettre i et qui ont une adresse email.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 3 6
+-- ==================================================================
+

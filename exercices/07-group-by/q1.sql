@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 07 · Question 1 — Clients par ville
+-- ==================================================================
+--  Affiche chaque ville et le nombre de clients qui y habitent.
+--  Ignore les clients dont la ville est inconnue (NULL).
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 7 1
+-- ==================================================================
+

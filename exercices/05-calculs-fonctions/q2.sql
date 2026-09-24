@@ -1,0 +1,12 @@
+-- ==================================================================
+--  Exercice 05 · Question 2 — Hausse des prix
+-- ==================================================================
+--  Les prix augmentent de 20 % ! Affiche le nom de chaque produit
+--  et son nouveau prix (prix × 1.2), arrondi à 2 décimales, dans
+--  une colonne nommée nouveau_prix.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 5 2
+-- ==================================================================
+

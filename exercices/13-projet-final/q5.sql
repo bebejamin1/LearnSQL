@@ -1,0 +1,13 @@
+-- ==================================================================
+--  Exercice 13 · Question 5 — À réapprovisionner
+-- ==================================================================
+--  Affiche le nom et le stock des produits dont le stock est
+--  inférieur à 10 et qui ont déjà été commandés au moins une fois
+--  (inutile de racheter ce qui ne se vend pas !). Trie du plus
+--  petit stock au plus grand.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 13 5
+-- ==================================================================
+

@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 01 · Question 2 — Nom et prix
+-- ==================================================================
+--  Affiche uniquement le nom et le prix de tous les produits
+--  (dans cet ordre : le nom, puis le prix).
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 1 2
+-- ==================================================================
+

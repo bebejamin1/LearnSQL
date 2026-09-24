@@ -1,0 +1,14 @@
+-- ==================================================================
+--  Exercice 13 · Question 8 — Le rapport mensuel
+-- ==================================================================
+--  La direction veut le chiffre d'affaires par mois (commandes
+--  livrées uniquement). Affiche le mois au format AAAA-MM
+--  (colonne mois) et le chiffre d'affaires arrondi à 2 décimales
+--  (colonne chiffre_affaires), du plus ancien mois au plus
+--  récent.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 13 8
+-- ==================================================================
+

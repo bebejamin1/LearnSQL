@@ -1,0 +1,16 @@
+-- ==================================================================
+--  Exercice 11 · Question 8 — Une vente !
+-- ==================================================================
+--  La cliente n°5 passe une nouvelle commande. Écris les 3
+--  requêtes nécessaires :
+--  1. ajoute la commande id 19, datée du 2024-12-24, statut en
+--  cours ;
+--  2. ajoute la ligne de commande id 30 : 2 exemplaires du
+--  produit n°7 dans la commande 19 ;
+--  3. diminue de 2 le stock du produit n°7.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 11 8
+-- ==================================================================
+

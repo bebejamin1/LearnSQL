@@ -1,0 +1,12 @@
+-- ==================================================================
+--  Exercice 05 · Question 5 — Noms à rallonge
+-- ==================================================================
+--  Affiche le nom de chaque produit et le nombre de caractères de
+--  ce nom (colonne longueur), uniquement pour les produits dont
+--  le nom fait plus de 15 caractères (strictement).
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 5 5
+-- ==================================================================
+

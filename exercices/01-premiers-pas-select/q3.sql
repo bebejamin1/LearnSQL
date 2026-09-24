@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 01 · Question 3 — Carnet d'adresses
+-- ==================================================================
+--  Affiche le prénom, le nom et la ville de tous les clients
+--  (dans cet ordre).
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 1 3
+-- ==================================================================
+

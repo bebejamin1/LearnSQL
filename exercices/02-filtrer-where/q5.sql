@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 02 · Question 5 — Jeunes Parisiens
+-- ==================================================================
+--  Affiche le prénom, le nom et l'âge des clients qui habitent à
+--  Paris et qui ont moins de 30 ans.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 2 5
+-- ==================================================================
+

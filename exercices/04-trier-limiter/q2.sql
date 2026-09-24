@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 04 · Question 2 — Les aînés d'abord
+-- ==================================================================
+--  Affiche le prénom, le nom et l'âge de tous les clients, du
+--  plus âgé au plus jeune.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 4 2
+-- ==================================================================
+

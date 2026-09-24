@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 09 · Question 2 — Produits jamais commandés
+-- ==================================================================
+--  Affiche le nom des produits qui n'ont jamais été commandés
+--  (ils n'apparaissent dans aucune ligne de commande).
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 9 2
+-- ==================================================================
+

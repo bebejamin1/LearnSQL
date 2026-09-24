@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 06 · Question 3 — Les extrêmes
+-- ==================================================================
+--  Affiche le prix du produit le moins cher, puis celui du plus
+--  cher (deux colonnes, dans cet ordre).
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 6 3
+-- ==================================================================
+

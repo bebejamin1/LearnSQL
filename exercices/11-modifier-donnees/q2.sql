@@ -1,0 +1,12 @@
+-- ==================================================================
+--  Exercice 11 · Question 2 — Nouveau produit
+-- ==================================================================
+--  Ajoute le produit Gourde isotherme, de la catégorie Sport, au
+--  prix de 17.50 €, avec un stock de 50. Ne précise pas l'id :
+--  laisse la base le choisir.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 11 2
+-- ==================================================================
+

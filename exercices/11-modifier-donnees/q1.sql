@@ -1,0 +1,12 @@
+-- ==================================================================
+--  Exercice 11 · Question 1 — Nouveau client
+-- ==================================================================
+--  Ajoute ce nouveau client : id 16, prénom Paul, nom Garnier,
+--  ville Rennes, âge 27, email paul.garnier@mail.fr, date
+--  d'inscription 2024-06-01.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 11 1
+-- ==================================================================
+

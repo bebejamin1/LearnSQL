@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 11 · Question 4 — Hausse des prix
+-- ==================================================================
+--  Augmente de 10 % le prix de tous les produits de la catégorie
+--  Jeux.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 11 4
+-- ==================================================================
+

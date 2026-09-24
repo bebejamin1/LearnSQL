@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 10 · Question 3 — Commandes en cours
+-- ==================================================================
+--  Affiche le prénom et le nom des clients qui ont au moins une
+--  commande en cours. Utilise IN avec une sous-requête.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 10 3
+-- ==================================================================
+

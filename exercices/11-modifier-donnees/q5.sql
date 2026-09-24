@@ -1,0 +1,12 @@
+-- ==================================================================
+--  Exercice 11 · Question 5 — Déménagement
+-- ==================================================================
+--  La cliente Chloé (id 3) déménage à Nice et donne enfin son
+--  email : chloe.bernard@mail.fr. Mets à jour ces deux
+--  informations en une seule requête.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 11 5
+-- ==================================================================
+

@@ -1,0 +1,12 @@
+-- ==================================================================
+--  Exercice 12 · Question 1 — Fournisseurs
+-- ==================================================================
+--  Crée une table fournisseurs avec 3 colonnes : id (entier, clé
+--  primaire), nom (texte, obligatoire) et pays (texte,
+--  facultatif).
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 12 1
+-- ==================================================================
+

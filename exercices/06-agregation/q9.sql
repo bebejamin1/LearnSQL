@@ -1,0 +1,12 @@
+-- ==================================================================
+--  Exercice 06 · Question 9 — Valeur totale du stock
+-- ==================================================================
+--  Quelle est la valeur totale du stock de la boutique (la somme
+--  de prix × stock pour tous les produits), arrondie à 2
+--  décimales ?
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 6 9
+-- ==================================================================
+

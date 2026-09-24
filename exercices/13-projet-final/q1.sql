@@ -1,0 +1,13 @@
+-- ==================================================================
+--  Exercice 13 · Question 1 — Top 3 des clients
+-- ==================================================================
+--  Qui sont nos 3 meilleurs clients ? Affiche le prénom, le nom
+--  et le total dépensé (arrondi à 2 décimales) des 3 clients qui
+--  ont dépensé le plus, en ne comptant que les commandes livrées.
+--  Du plus gros total au plus petit.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 13 1
+-- ==================================================================
+

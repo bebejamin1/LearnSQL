@@ -1,0 +1,12 @@
+-- ==================================================================
+--  Exercice 13 · Question 2 — Grosses commandes
+-- ==================================================================
+--  Affiche l'id, la date et le montant des commandes dont le
+--  montant dépasse 100 € (tous statuts confondus), de la plus
+--  grosse à la plus petite.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 13 2
+-- ==================================================================
+

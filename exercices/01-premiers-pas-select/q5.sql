@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 01 · Question 5 — L'ordre compte
+-- ==================================================================
+--  Affiche la ville puis le prénom de tous les clients (attention
+--  : la ville en premier !).
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 1 5
+-- ==================================================================
+

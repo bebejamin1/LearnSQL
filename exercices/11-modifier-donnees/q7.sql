@@ -1,0 +1,12 @@
+-- ==================================================================
+--  Exercice 11 · Question 7 — Supprimer une commande
+-- ==================================================================
+--  Supprime la commande n°4 (elle a été annulée) ainsi que ses
+--  lignes de commande. Attention à l'ordre, à cause des clés
+--  étrangères !
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 11 7
+-- ==================================================================
+

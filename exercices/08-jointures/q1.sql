@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 08 · Question 1 — Qui a commandé ?
+-- ==================================================================
+--  Affiche l'id de chaque commande, sa date, et le prénom du
+--  client qui l'a passée (dans cet ordre).
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 8 1
+-- ==================================================================
+

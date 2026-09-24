@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 10 · Question 2 — Le plus jeune
+-- ==================================================================
+--  Affiche le prénom et l'âge du (ou des) client(s) le(s) plus
+--  jeune(s), en utilisant une sous-requête.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 10 2
+-- ==================================================================
+

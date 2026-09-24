@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 01 · Question 6 — État des stocks
+-- ==================================================================
+--  Affiche le nom, la catégorie et le stock de tous les produits
+--  (dans cet ordre).
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 1 6
+-- ==================================================================
+

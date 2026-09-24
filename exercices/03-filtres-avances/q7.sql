@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 03 · Question 7 — Printemps 2024
+-- ==================================================================
+--  Affiche toutes les colonnes des commandes passées entre le 1er
+--  mars et le 30 juin 2024 (inclus).
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 3 7
+-- ==================================================================
+

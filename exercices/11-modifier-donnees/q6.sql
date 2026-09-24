@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 11 · Question 6 — Ménage des clients inactifs
+-- ==================================================================
+--  Supprime tous les clients qui n'ont jamais passé de commande.
+--  Utilise une sous-requête.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 11 6
+-- ==================================================================
+

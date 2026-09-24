@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 02 · Question 4 — Trente ans et plus
+-- ==================================================================
+--  Affiche le prénom et l'âge des clients qui ont au moins 30 ans
+--  (30 ans compris).
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 2 4
+-- ==================================================================
+

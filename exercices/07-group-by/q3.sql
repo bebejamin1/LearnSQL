@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 07 · Question 3 — Stock par catégorie
+-- ==================================================================
+--  Affiche chaque catégorie et son stock total (la somme des
+--  stocks de ses produits).
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 7 3
+-- ==================================================================
+

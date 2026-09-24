@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 02 · Question 2 — Petits prix
+-- ==================================================================
+--  Affiche le nom et le prix des produits qui coûtent strictement
+--  moins de 25 € (un produit à 25 € ne doit pas apparaître).
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 2 2
+-- ==================================================================
+

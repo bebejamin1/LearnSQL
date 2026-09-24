@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 03 · Question 5 — Sans email
+-- ==================================================================
+--  Affiche toutes les colonnes des clients dont l'email n'est pas
+--  renseigné (il vaut NULL).
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 3 5
+-- ==================================================================
+

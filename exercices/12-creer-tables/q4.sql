@@ -1,0 +1,13 @@
+-- ==================================================================
+--  Exercice 12 · Question 4 — Valeur par défaut
+-- ==================================================================
+--  Crée une table messages avec : id (entier, clé primaire),
+--  contenu (texte, obligatoire) et lu (entier, obligatoire,
+--  valeur par défaut 0). Puis ajoute un message dont le contenu
+--  est Bonjour !, sans préciser la valeur de lu.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 12 4
+-- ==================================================================
+

@@ -1,0 +1,12 @@
+-- ==================================================================
+--  Exercice 04 · Question 5 — Tri à deux niveaux
+-- ==================================================================
+--  Affiche le prénom, le nom et la ville de tous les clients,
+--  triés par ville (A→Z), puis par prénom (A→Z) pour les clients
+--  d'une même ville.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 4 5
+-- ==================================================================
+

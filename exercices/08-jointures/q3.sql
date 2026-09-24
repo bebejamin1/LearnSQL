@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 08 · Question 3 — Détail des lignes
+-- ==================================================================
+--  Pour chaque ligne de commande, affiche l'id de la commande
+--  (commande_id), le nom du produit et la quantité.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 8 3
+-- ==================================================================
+

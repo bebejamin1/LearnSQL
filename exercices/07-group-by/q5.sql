@@ -1,0 +1,12 @@
+-- ==================================================================
+--  Exercice 07 · Question 5 — Clients fidèles
+-- ==================================================================
+--  Dans la table commandes, affiche l'id de chaque client
+--  (client_id) et son nombre de commandes, uniquement pour les
+--  clients qui ont passé au moins 2 commandes.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 7 5
+-- ==================================================================
+

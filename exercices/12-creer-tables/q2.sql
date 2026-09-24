@@ -1,0 +1,15 @@
+-- ==================================================================
+--  Exercice 12 · Question 2 — Villes
+-- ==================================================================
+--  Crée une table villes avec les colonnes id (entier, clé
+--  primaire), nom (texte, obligatoire) et habitants (entier).
+--  Puis ajoute ces 3 villes :
+--  - 1, Paris, 2100000
+--  - 2, Lyon, 520000
+--  - 3, Marseille, 870000
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 12 2
+-- ==================================================================
+

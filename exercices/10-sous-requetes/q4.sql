@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 10 · Question 4 — Jamais commandés (le retour)
+-- ==================================================================
+--  Affiche le nom des produits qui n'ont jamais été commandés,
+--  cette fois avec NOT IN et une sous-requête (pas de JOIN).
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 10 4
+-- ==================================================================
+

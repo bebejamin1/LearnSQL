@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 03 · Question 4 — Chercher un mot
+-- ==================================================================
+--  Affiche le nom et le prix des produits dont le nom contient de
+--  (par exemple « Lampe de bureau »).
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 3 4
+-- ==================================================================
+

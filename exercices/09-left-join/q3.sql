@@ -1,0 +1,12 @@
+-- ==================================================================
+--  Exercice 09 · Question 3 — Compter aussi les zéros
+-- ==================================================================
+--  Affiche le prénom de chaque client et son nombre de commandes,
+--  y compris 0 pour ceux qui n'en ont aucune. Trie par nombre de
+--  commandes décroissant, puis par prénom (A→Z).
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 9 3
+-- ==================================================================
+

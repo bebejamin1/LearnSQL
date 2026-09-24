@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 04 · Question 4 — Villes sans doublon
+-- ==================================================================
+--  Affiche la liste des villes des clients sans doublons, sans la
+--  ville non renseignée (NULL), triée par ordre alphabétique.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 4 4
+-- ==================================================================
+

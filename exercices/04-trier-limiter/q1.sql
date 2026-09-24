@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 04 · Question 1 — Du moins cher au plus cher
+-- ==================================================================
+--  Affiche le nom et le prix de tous les produits, triés du moins
+--  cher au plus cher.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 4 1
+-- ==================================================================
+

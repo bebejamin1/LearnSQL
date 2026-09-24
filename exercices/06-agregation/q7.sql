@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 06 · Question 7 — Villes différentes
+-- ==================================================================
+--  Dans combien de villes différentes habitent les clients ? (une
+--  ville inconnue ne compte pas)
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 6 7
+-- ==================================================================
+

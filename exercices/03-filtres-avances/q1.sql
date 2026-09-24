@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 03 · Question 1 — Trois villes
+-- ==================================================================
+--  Affiche le prénom, le nom et la ville des clients qui habitent
+--  à Paris, Lyon ou Nantes. Utilise IN.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 3 1
+-- ==================================================================
+

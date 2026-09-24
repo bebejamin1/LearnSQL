@@ -1,0 +1,13 @@
+-- ==================================================================
+--  Exercice 12 · Question 3 — Avis clients
+-- ==================================================================
+--  Crée une table avis avec : id (entier, clé primaire),
+--  produit_id (entier, obligatoire, clé étrangère vers
+--  produits(id)), note (entier, obligatoire) et commentaire
+--  (texte, facultatif).
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 12 3
+-- ==================================================================
+

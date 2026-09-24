@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 02 · Question 7 — Stock faible
+-- ==================================================================
+--  Affiche le nom, la catégorie et le stock des produits des
+--  catégories Maison ou Sport dont le stock est inférieur à 15.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 2 7
+-- ==================================================================
+

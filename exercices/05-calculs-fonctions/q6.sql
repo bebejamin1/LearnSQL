@@ -1,0 +1,11 @@
+-- ==================================================================
+--  Exercice 05 · Question 6 — Commandes de décembre
+-- ==================================================================
+--  Affiche l'id et la date des commandes passées au mois de
+--  décembre. Utilise strftime.
+--
+--  ✍️  Écris ta requête SQL SOUS ce cadre, enregistre (Ctrl+S),
+--      puis vérifie depuis la racine du projet LearnSQL :
+--        python3 verifier.py 5 6
+-- ==================================================================
+
